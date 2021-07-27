@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    exiftool (1.2.3)
+      json
+    json (2.5.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  exiftool
+
+BUNDLED WITH
+   1.17.2
